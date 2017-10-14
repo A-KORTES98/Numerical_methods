@@ -1,0 +1,10 @@
+//
+// Created by anton on 03.10.17.
+//
+
+#ifndef NUMERICAL_METHODS_NUMERICAL_METH_4_H
+#define NUMERICAL_METHODS_NUMERICAL_METH_4_H
+
+int mainF();
+
+#endif //NUMERICAL_METHODS_NUMERICAL_METH_4_H

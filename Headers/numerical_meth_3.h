@@ -1,0 +1,12 @@
+//
+// Created by anton on 27.09.17.
+//
+
+#ifndef NUMERICAL_METHODS_NUMERICAL_METH_SPACE_C_H
+#define NUMERICAL_METHODS_NUMERICAL_METH_SPACE_C_H
+
+int spaceMain();
+
+
+
+#endif //NUMERICAL_METHODS_NUMERICAL_METH_SPACE_C_H
